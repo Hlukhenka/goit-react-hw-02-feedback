@@ -1,0 +1,9 @@
+.Btn{
+  margin-right: 10px;
+  padding: 7px 15px;
+  font-size: 20px;
+  font-family: 'Gill Sans';
+  border-radius: 10px;
+  border: none;
+  background-color: darkseagreen;
+}
